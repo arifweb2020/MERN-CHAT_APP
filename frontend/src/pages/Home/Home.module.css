@@ -1,0 +1,31 @@
+.cardwrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4rem;
+    
+}
+
+.text{
+    font-size: 19px;
+    line-height: 1.6;
+    color: #c4c5c5;
+    margin-bottom: 30px;
+}
+
+.signinwrapper{
+
+    margin-top: 20px;
+}
+
+.invite{
+    color: #0077ff;
+}
+
+.mylink{
+
+    color: #0077ff;
+    margin-left: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
